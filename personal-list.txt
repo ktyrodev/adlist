@@ -1,0 +1,427 @@
+!
+! Title: Personal-list
+! Description: Personal list of annoyance ads and trackers
+! Homepage: https://raw.githubusercontent.com/josiahkqs/adhost/master/personal-list.txt
+!
+!
+
+activeoffers.appromoters.com
+adscat.ru
+advertising.com
+app.mobxtrack.com
+appcoachs.com
+apxadtracking.net
+ariseboundary.com
+artistedition.us
+atas.io
+bingmob.offerstrack.net
+bit-system.org
+boudja.com
+brainfitness.us
+brainphotos.us
+catfly.com
+chinesean.com
+chinesemov.com
+colleduny.info
+coinads.offerstrack.net # Spam
+dsp.agency
+easylinkweb.today
+echo-ice.com
+floorclock.us
+gcm.netmng.com
+gold-equities.us
+gothrgh.pro
+hexcan.com
+ikoh6ie.top
+injuredcandy.com
+inplayable.com
+issuetracking.us
+jackettrain.com
+lignorange.com
+letmacworkfaster.site
+macdamaged.tech
+meet.viasexcams.com
+metal-band.us
+metalcontainers.us
+mobismarter.com
+mobotrkr.com
+netmng.com
+performancecentral.mobi
+pimmuter.com
+pricetrends.us
+print-edition.us
+px9y36.com
+rajapoker.pro
+rayjump.com
+registered-domain.us
+ridingintractable.com
+ruby-alaska.us
+searchlinks.com
+seekmyapp.com
+sexytradepics.com
+shootmedia-hk.com
+shupphome.com
+sistacked.com
+smarter-wireless.net
+spasuber.com
+srv6.feedallapps.com
+strainemergency.com
+sumatoad.com
+supprene.com
+shellcat.ru
+theses.com
+thewhizmarketing.com
+track.iontap.io
+traftds.ru
+www.boctopus.com
+www.promoadx.com
+www.tagsis.com
+xactmobil.com
+yellowsand.us
+zwigglers.com
+eki.trafficsan.com
+www.hentaiheroes.com
+delivery.porn.com
+pnewspages.com
+platform.bidgear.com
+hiug862dj0.com
+fingahvf.top
+ads.2mdnsys.com
+www.seeawhale.com
+dog-owner.us
+content.hentaiheroes.com
+serv.ads.pixiv.org
+demos.flesler.com
+xqkzsifxgv.com
+dnckawxatc.com
+a.geniee.jp
+y1jxiqds7v.com
+cl96rwprue.com
+s9kkremkr0.com
+ethfw0370q.com
+trafficnado.com
+ads.genieessp.com
+ads.medi-8.net
+static.viewasian.tv
+hdfree.se
+cl.sdkringps.com
+speednetwork15.adk2x.com
+brainregions.us
+seanprice.us
+tracking.magichygeia.com
+js.kiwihk.net
+html.yanqian.org
+reedpen.us
+burstly.com
+bango.combango.org
+custom-blacklisted-tracking-example.com
+supercell.net
+usergrid.com
+mixi.mn
+fundiscuss.com
+coloredbackground.us
+searchoperator.us
+red-flag.us
+brainfacts.us
+value-solutions.us
+sterling-price.us
+shopping-streets.us
+poetrywriting.us
+socialscientists.us
+learning-theories.us
+redshirt.us
+cartruck.us
+value-measurement.us
+eliteeddition.com
+sterlingprice.us
+exclusivefaile.com
+trck.bebi.com
+c.bebi.com
+adservice.google.com.sg
+gamingadult.biz
+track.adtrue.com
+exchange.adtrue.com
+hiug862dj0.com
+ads.medi-8.net
+chuwi.us1.list-manage.com
+burpple.us2.list-manage.com
+openrate.aweber.com
+www.aweber.com
+creatable.us15.list-manage.com
+log.dmtry.com
+opentrack.newsletter.mediacorp.sg
+t-info.mail.adobe.com
+trk.email.dynect.net
+email.mightydeals.com
+newsletter.mightydeals.com
+click.info.vaniday.com
+t.usa.uniqloe.com
+t.emails.hostelworld.com
+trackview.jobstreet.com
+trk.jobstreet.com
+theirsvendor.com
+adserver.adtech.advertising.com
+native.propellerads.com
+unrestern.info
+authorne.info
+imagetopng.club
+a.disquscdn.com
+st.stripcdn.com
+c-eu1.stripcdn.com
+c-eu2.stripcdn.com
+c-eu3.stripcdn.com
+c-eu5.stripcdn.com
+c-eu6.stripcdn.com
+c-eu8.stripcdn.com
+c-us4.stripcdn.com
+t.mp1.tripadvisor.com
+seal-sanjose.bbb.org
+dc.trafficmanager.net
+aqvwbxp.x.incapdns.net
+click.mysmartprice.in
+collector.xhamster.com
+collector1.xhamster.com
+cnt.xhamster.com
+hubt.pornhub.com
+cuntwars.com
+radioactive.deliveryengine.adswizz.com
+images.babyboomboomads.com
+ozwvd.com
+truefalsetalk.com
+valusc.com
+nextoptim.com
+mixshared.com
+cm.steepto.com
+imgg-cdn.mgid.com
+pomerous.info
+www.vidcpm.com
+www.aevdokimova.ru
+tracking.pubtower.com
+analytics.aimtell.com
+ialaddin.genieesspv.jp
+pixel.advertising.com
+n0-r1d2.amgload.net # gogoanime
+n1-r1d2.amgload.net # gogoanime
+n2-r1d2.amgload.net # gogoanime
+n4-r1d2.amgload.net # gogoanime
+n8-r1d2.amgload.net # gogoanime
+n0-r2d2.amgload.net # gogoanime
+n1-r2d2.amgload.net # gogoanime
+n2-r2d2.amgload.net # gogoanime
+n3-r2d2.amgload.net # gogoanime
+n4-r2d2.amgload.net # gogoanime
+n5-r2d2.amgload.net # gogoanime
+n6-r2d2.amgload.net # gogoanime
+n7-r2d2.amgload.net # gogoanime
+n9-r2d2.amgload.net # gogoanime
+xk1o.amgload.net # gogoanime
+xk6o.amgload.net # gogoanime
+xk6n.amgload.net # gogoanime
+xk9o.amgload.net # gogoanime
+xk9n.amgload.net # gogoanime
+n0-r1d2.piguiqproxy.com # gogoanime
+n1-r2d2.piguiqproxy.com # gogoanime
+n2-r1d2.piguiqproxy.com # gogoanime
+n3-r2d2.piguiqproxy.com # gogoanime
+n4-r1d2.piguiqproxy.com # gogoanime
+n0-r2d2.piguiqproxy.com # gogoanime
+n2-r2d2.piguiqproxy.com # gogoanime
+n5-r2d2.piguiqproxy.com # gogoanime
+n6-r2d2.piguiqproxy.com # gogoanime
+n7-r1d2.piguiqproxy.com # gogoanime
+n5-r1d2.piguiqproxy.com # gogoanime
+kz1d.piguiqproxy.com # gogoanime
+kz9d.piguiqproxy.com # gogoanime
+kz6d.piguiqproxy.com # gogoanime
+kz1c.piguiqproxy.com # gogoanime
+kz6c.piguiqproxy.com # gogoanime
+kz9c.piguiqproxy.com # gogoanime
+piguiqproxy.com # gogoanime
+host1.piguiqproxy.com # gogoanime
+a1089.d.akamai.net # gogoanime
+a151.g.akamai.net # gogoanime
+zx1s.smcheck.org # gogoanime
+zx6s.smcheck.org # gogoanime
+zx9s.smcheck.org # gogoanime
+usage.readdle.com # Readdle apps analytics
+actuallysnake.com # mangarock.com
+track.superfastmediation.com # mangarock app
+exchange.superfastmediation.com # mangarock app
+tracking.feedpress.it # RSS Feed Analytics
+bear.umtalk.net # Spam
+www.shareit.com.tw # Scam
+api.clique.us # Made for AdSense sites
+edm01.icampaign.com.sg # Spam
+cbtb.clickbank.net # Spam
+horo88.cc # Scam
+statics-wcus.onestore.ms # Phishing
+trk.klclick1.com # Spam
+files.muzli.space # Made for AdSense sites
+j.hbwcl.com # pufei.net
+e4478.a.akamaiedge.net # pufei.net
+fcsl.fcwlzh.cn # pufei.net
+tps.zhhfc.cn # pufei.net
+tfs.zhamm.cn # pufei.net
+mb.aigou023.com # pufei.net
+v.heygugu.com # pufei.net
+m3.8hdp.cn # pufei.net
+mb.12365chia.com # pufei.net
+a-cn.duoyi.com # pufei.net
+kk78899.com # pufei.net
+go.onelink.me # pufei.net
+pic.shen9192.cn # pufei.net
+e.feisia1.cn # pufei.net
+vip.k.15cdn.com # pufei.net
+e.zhaibei112.top # pufei.net
+c.zhaibei112.top # pufei.net
+m2.8hdp.cn # pufei.net
+m.8hdp.cn # pufei.net
+m.yzjlsb.com # dongliuxiaoshuo.com
+t.ynjkkj.com # dongliuxiaoshuo.com
+c.kuaituisss.com # dongliuxiaoshuo.com
+ocsp.dcocsp.cn # dongliuxiaoshuo.com
+m.ynjkkj.com # dongliuxiaoshuo.com
+ku87r.cn # dongliuxiaoshuo.com
+ocsp.dcocsp.cn.w.kunlunar.com # dongliuxiaoshuo.com
+apps.bdimg.jomodns.com # dongliuxiaoshuo.com
+loaphizu.com
+gepk.uxpyd.cn # m.wuyouhui.net
+cgdh.fenbengpan.cn # m.wuyouhui.net
+sjpx.allwininfo.cn # m.wuyouhui.net
+tbax.woyvk.cn # m.wuyouhui.net
+s7.qhres.com # m.wuyouhui.net
+9999.v2cx.com # m.wuyouhui.net
+lkdt.lmhfn.cn # m.wuyouhui.net
+s6.qhres.com # m.wuyouhui.net
+js.passport.qihucdn.com # m.wuyouhui.net
+bcuh.tinwong.cn # m.tohomh123.com
+dolohen.com # Disease Vector
+www.dolohen.com # Disease Vector
+lewenxiaoshuo.com # Spam
+m.lewenxiaoshuo.com # Spam
+baby.horo88.cc # Spam
+leaplunchroom.com # Spam
+www.lewenxiaoshuo.com # Spam
+netflixupdate.com # Phishing
+www.thehubpeople.com # Spam
+cbtb.clickbank.net # Spam
+sweeplp.com # Spam
+sync-eu.connectad.io # Possible Ads
+static.vliplatform.com # Possible Ads
+kt5850pjz0.com # Ads
+services.bilsyndication.com # Possible Ads
+media.bilsyndication.com # Possible Ads
+biltag.bilsyndication.com # Possible Ads
+stats.bilsyndication.com # Possible Ads
+assets.bilsyndication.com # Possible Ads
+runative-syndicate.com # Possible Ads
+sandroprabratm.info # Possible Ads
+forcedolphin.com # Possible Ads
+images.babyboomboomads.com # Ads
+babyboomboomads.com # Ads
+consting-hancessor.com # Possible Ads
+readcomiconline.to # Possible Ads
+yesra.xyz # Possible Ads
+globaladmedia.com # Ads
+bristlyapace.com # Ads
+ssp-nj.webtradehub.com # Possible Ads
+cdn.steepto.com # Possible Ads
+cm.steepto.com # Possible Ads
+trahes.sites # Possible Ads
+js.genieessp.com # Possible Ads
+xmlppcbuzz.com # Possible Ads
+xml.auxml.com # Possible Ads
+cdn.connectad.io # Possible Ads
+static.adop.co # Possible Ads
+imasdk.googleapis.com # Possible Ads
+ssp-nj.webtradehub.com # Possible Ads
+s-img.steepto.com # Ads
+mg.steepto.com # Ads
+www.steepto.com # Ads
+cdn.steepto.com # Ads
+adqy6rzwcs.com # Ads
+86a6b54217.com # Ads
+86a6b542l7.com # Ads
+www19.hlsmp4.com # Ads
+www319.hlsmp4.com # Ads
+www1438.hlsmp4.com # Ads
+www1067.hlsmp4.com # Ads
+sl.peakonspot.com # Scam
+106276.catchtheclick.com # Phishing
+m.lewenxiaoshuo.com # Spam
+a.exosrv.com # Ads
+main.exosrv.com # Ads
+static.exosrv.com # Ads
+syndication.exosrv.com # Ads
+mobilevirustotal.pro # Scam
+newsatads.com # Ads
+you-have-1-message-about-your-device.mujohiy.com # Spam
+www.36mh.com # Spam
+api.novalymedia.com # Phishing
+redir.bebi.com # Ads
+bu.mkklcdnbuv1.com # Phishing
+emulator.games # Spam
+assets.novalymedia.com # Phishing
+api.novalymedia.com # Phishing
+dadbab.info # Spam
+js.kiwihk.net # Spam 
+tracker.mtrtb.com # Ads
+redirector.googlevideo.com # Possible Ads
+insta-localhookup3.com # Scam
+inspxtrc.com # Spam
+flash.253.com # Spam
+ulflash.253.com # Spam
+youngmobi.offerstrack.net # Spam
+udmserve.net # Ads
+jump.ogtrk.net # Scam
+ogs.google.com # Google redirect
+privateinsta.com # Spam
+a771.dscq.akamai.net # Ads
+a1089.dscd.akamai.net # Ads
+a1838.dscb.akamai.net # Ads
+native.propellerclick.com # Possible Tracker
+prod.disqus.map.fastlylb.net # Possible Tracker
+polka.typekit.com # Adobe Typekit Tracker
+prebid.mgid.com # Possible Ad
+widget.novelfever.com # Block Novel Widget
+served-by.pixfuture.com # Possible Tracker
+vast.adxoo.com # Possible Ads
+ss-prod-an1-notif-25.aws.adobess.com # Adobe Tracker
+apps.mzstatic.com.edgekey.net # Unsure, possible ads
+trahes.site # Possible Ads / Phishing
+wowjogsot.com # Phishing 
+jwpltx.com # Ads
+prd.jwpltx.com # Ads
+cawsodpet.club # Ads
+coweatsup.com # Ads
+aritcametu.com # Malware Accomplic
+saztirulo.com # Malware Accomplic
+ercoyintu.com # Malware Accomplic
+turiqeri.com # Malware Accomplic
+istepuleto.com # Malware Accomplic
+c3.sdkclickurl.com # Scam
+rotdubboy.com # Possible Ads
+kenh11.com # Possible Ads
+hgoodpro.nijialife.com # Scam
+onmarshtompor.com # Tracker
+postlnk.com # Tracker, dramacool
+itnuzleafan.com # Tracker, dramacool
+unreshiramor.com # Tracker, dramacool
+ponderousmuffled.com # Scam
+www.manga-raw.club # Illegal
+www.takiparkrb.site # Malware Accomplice
+fastred.biz # Disease Vector
+pnewse.com # Scam
+iyfnz.com # Scam
+js.wpadmngr.com # Scam
+www.user-shield.com # Scam
+prelandappslab.com # Scam
+rawkuma.com # Illegal
+mangakakalot.com # Illegal
+b-ok.asia # Illegal
+auntietraumatizemobile.com # Scam
+ponderousmuffled.com # Scam
+grandchildfee.com # Scam
+gufengmh8.com # Illegal
+int.vaicore.store # Scam
+
