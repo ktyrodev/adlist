@@ -1,7 +1,7 @@
 !
 ! Title: Personal-list
 ! Description: Personal list of annoyance ads and trackers
-! Homepage: https://raw.githubusercontent.com/josiahkqs/adhost/master/personal-list.txt
+! Homepage: https://raw.githubusercontent.com/ktyrodev/adhost/master/personal-list.txt
 !
 !
 
