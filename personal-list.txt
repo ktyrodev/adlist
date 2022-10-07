@@ -387,7 +387,6 @@ widget.novelfever.com # Block Novel Widget
 served-by.pixfuture.com # Possible Tracker
 vast.adxoo.com # Possible Ads
 ss-prod-an1-notif-25.aws.adobess.com # Adobe Tracker
-apps.mzstatic.com.edgekey.net # Unsure, possible ads
 trahes.site # Possible Ads / Phishing
 wowjogsot.com # Phishing 
 jwpltx.com # Ads
